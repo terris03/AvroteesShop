@@ -1,3 +1,5 @@
 https://github.com/terris03/Avrotees.git
 
 Shop Item = https://startbootstrap.com/template/shop-item
+
+Spin item = https://www.magictoolbox.com/magic360/integration/
