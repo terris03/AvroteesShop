@@ -1,0 +1,3 @@
+https://github.com/terris03/Avrotees.git
+
+Shop Item = https://startbootstrap.com/template/shop-item
